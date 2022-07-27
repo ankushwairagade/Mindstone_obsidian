@@ -1,0 +1,25 @@
+##  DSA + ALGORITHM 
+
+- [ ] [[1.1 Essential For Any Languages]]
+- [ ] [[2.1 Complexity Analysis 👍]]]
+- [ ] **3. Mathematics   MIN[50+]**
+- [ ] **4. Bit Magic [most imp topic ]**
+- [ ] **5. Recursion**
+- [ ] **6. Arrays**
+- [ ] **7. Searching [Min 75+]**
+- [ ] **8. Sorting [Algorithm]**
+- [ ] **9. Matrix [MIN 20+]**
+- [ ] **10. Linked List**
+- [ ] **11. Stack   MIN[20+]**
+- [ ] **12. Queue MIN[20+]**
+- [ ] **13. Deque C++ STL , JAVA**
+- [ ] **14. Tree**
+- [ ] **15. Hashing**
+- [ ] **16. Binary Search Tree**
+- [ ] **17. Graph**
+- [ ] **18. Greedy**
+- [ ] **19. Dynamic Programming**
+- [ ] **20. Backtracking**
+- [ ] **21. Segment Tree**
+- [ ] **22. Trie**
+- [ ] **23. Disjoint Set**
